@@ -18,11 +18,13 @@ _歡迎來到我的 GitHub 主頁！_
 
 🐦 線上版履歷: https://pda.104.com.tw/profile/share/eTWYOoGytY3Gbilk0FizoCiNIMiq1iWL
 
+<div align="center"> 
+
 ## 技能 
 
-### 前端
-<div align="center">
-  
+
+ ### 前端
+<div align="center"> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="70" height="70" />
@@ -56,7 +58,7 @@ _歡迎來到我的 GitHub 主頁！_
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jquery-icon.png" alt="JQuery"
             width="70" height="70" />
     </a>
-</div>
+
    
 
 
