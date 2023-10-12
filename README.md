@@ -16,7 +16,7 @@ _歡迎來到我的 GitHub 主頁！_
 <div align="left">
 📧 電子郵件：xuanyinglife@gmail.com
 
-🐦 線上版履歷: https://pda.104.com.tw/profile/share/eTWYOoGytY3Gbilk0FizoCiNIMiq1iWL
+🐦 線上版履歷: [https://pda.104.com.tw/profile/share/eTWYOoGytY3Gbilk0FizoCiNIMiq1iWL](https://pda.104.com.tw/profile/share/gvutezwyiXoE7Nf3TuLPrMIOadBdkdi8)
 
 <div align="center"> 
 
